@@ -8,7 +8,8 @@ Ein Spieleabend mit Handy-Steuerung: Sport, Wintersport und Minispiele für PC u
 - **[Aktuelle Downloads und Android-App](https://github.com/total-restart/partii-downloads/releases/latest)**
 
 Die einzelne `Partii-Launcher.exe` kann auch direkt an Freunde geschickt werden.
-Sie lädt das Spiel beim ersten Start und prüft später auf neue Versionen. Die erste
+Sie lädt das Spiel beim ersten Start. Danach prüft sie beim Öffnen automatisch die Version,
+übernimmt unveränderte Dateien und lädt nur geänderte nach. Anschließend startet das Spiel. Die erste
 Installation braucht eine Internetverbindung. Bereits installierte Versionen sind
 über „Offline starten“ lokal gegen Bots spielbar.
 
@@ -16,8 +17,12 @@ Installation braucht eine Internetverbindung. Bereits installierte Versionen sin
 
 Die Android-App aus dem aktuellen Release installieren. Handy und eigener PC müssen
 im selben lokalen Netzwerk sein. Den QR-Code auf dem PC mit der App scannen.
-Das Handy übernimmt Menüzeiger und Spielsteuerung. Updatehinweise erscheinen bei
-geöffneter App; Android fragt vor der Installation einer neuen APK nach.
+Das Handy übernimmt Menüzeiger und Spielsteuerung. Die Controller-Oberfläche aktualisiert
+sich beim Öffnen als kleines Inhaltspaket. Sensoren und Verbindung bleiben nativ. Für neue
+Android-Berechtigungen oder native Funktionen kann weiterhin eine neue APK nötig sein;
+Android fragt vor deren Installation nach. Bereits gespeicherte Inhalte funktionieren offline.
+
+Für den Wechsel auf diese Update-Hülle ist einmalig die Android-App 0.35.2 nötig.
 
 ## Teststand
 
