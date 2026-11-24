@@ -22,7 +22,8 @@ sich beim Öffnen als kleines Inhaltspaket. Sensoren und Verbindung bleiben nati
 Android-Berechtigungen oder native Funktionen kann weiterhin eine neue APK nötig sein;
 Android fragt vor deren Installation nach. Bereits gespeicherte Inhalte funktionieren offline.
 
-Für den Wechsel auf diese Update-Hülle ist einmalig die Android-App 0.35.2 nötig.
+Für die laufende Absprunganzeige beim Skispringen ist Android-App 0.35.3 nötig.
+Die App meldet verfügbare native Updates; Android bestätigt deren Installation.
 
 ## Teststand
 
