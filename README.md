@@ -46,8 +46,13 @@ bei widersprüchlichen Spielständen schützen vor versehentlichem Überschreibe
 Bereits gespeicherte PC-Profile bleiben auch offline spielbar. Die Telefonkopplung per QR-Code
 ist weiterhin getrennt von der Kontoanmeldung.
 
-Das eigenständige Handyprofil zeigt den gespeicherten Stand bislang an. Käufe und die
-vollständige Avatarbearbeitung ohne PC folgen in einem weiteren Entwicklungsschritt.
+Ab 0.35.7 lassen sich im eigenständigen Handyprofil auch Avatare bearbeiten und Extras
+im sortierten Shop freischalten. Avatarwechsel behalten denselben Fortschritt und Goldstand.
+Käufe brauchen eine Internetverbindung; Preise, Besitz und Goldabzug werden auf dem Server geprüft.
+
+Zum Entwicklungsreset in 0.35.7 wurden bisherige Partii-Konten und Statistiken gelöscht.
+Bitte ein neues Partii-Konto erstellen und PC sowie App aktualisieren. Lokal gespeicherte
+Avatar-Aussehen, freigeschaltete Extras und lokales Gold bleiben erhalten.
 
 Dieses Repository enthält Downloadhinweise und fertige Release-Dateien. Das
 Unity-Projekt und die ursprünglichen Quellcodedateien werden hier nicht veröffentlicht.
