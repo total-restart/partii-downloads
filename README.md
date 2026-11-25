@@ -73,3 +73,10 @@ hier nur diese README mit Downloadhinweisen, nicht den Spielquellcode.
 Der separate gh-pages-Zweig enthält ausschließlich die notwendige Browser-Laufzeit des
 Safari-Controllers und Schriftlizenzen; JavaScript einer Webseite ist technisch einsehbar.
 Hinweise zu Drittanbieterkomponenten liegen im Spielpaket im Ordner `Licenses`.
+
+Ab 0.35.9 kann der Safari-Controller selbst den PC-QR-Code scannen. Das Kontoprofil enthält
+jetzt auch Avatarbearbeitung, Garderobe und Shop. Änderungen und Käufe nutzen dieselben
+Serverprüfungen wie Android; veraltete Preisanzeigen erfordern erneutes Bestätigen.
+Im Safari-Profil werden Zugangsdaten nur für die laufende Sitzung gehalten. Nach einem
+Neustart der Webapp ist deshalb eine erneute Anmeldung nötig. Kameraaufnahmen werden
+zum Scannen lokal verarbeitet und nicht als Bilder hochgeladen.
