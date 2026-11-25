@@ -33,4 +33,6 @@ unabhängig. Persönliche Avatare und Spielstände werden lokal gespeichert.
 
 Dieses Repository enthält Downloadhinweise und fertige Release-Dateien. Das
 Unity-Projekt und die ursprünglichen Quellcodedateien werden hier nicht veröffentlicht.
+Die automatisch von GitHub eingeblendeten Einträge „Source code (zip/tar.gz)“ enthalten
+hier nur diese README mit Downloadhinweisen, nicht den Spielquellcode.
 Hinweise zu Drittanbieterkomponenten liegen im Spielpaket im Ordner `Licenses`.
