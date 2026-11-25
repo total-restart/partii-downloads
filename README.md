@@ -80,3 +80,8 @@ Serverprüfungen wie Android; veraltete Preisanzeigen erfordern erneutes Bestät
 Im Safari-Profil werden Zugangsdaten nur für die laufende Sitzung gehalten. Nach einem
 Neustart der Webapp ist deshalb eine erneute Anmeldung nötig. Kameraaufnahmen werden
 zum Scannen lokal verarbeitet und nicht als Bilder hochgeladen.
+
+Ab PC 0.35.10 unterstützt Golf bis zu acht menschliche Teilnehmer mit gemeinsamer
+Zuschauerkamera. Tischtennis und Tennis bieten ab drei Freunden parallele 1v1-Turniere
+mit Bot-Ergänzung und Platzierungsspielen. Größere Sportgruppen brauchen aktuelle
+PC-Versionen bei allen Mitgliedern. Die gemeinsame Revanche startet nach deren Zustimmung.
