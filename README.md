@@ -1,6 +1,6 @@
 # Partii
 
-Ein Spieleabend mit Handy-Steuerung: Sport, Wintersport und Minispiele für PC und Android.
+Ein Spieleabend mit Handy-Steuerung: Sport, Wintersport und Minispiele für PC, Android und als erste Safari-Version fürs iPhone.
 
 ## Herunterladen
 
@@ -24,6 +24,18 @@ Android fragt vor deren Installation nach. Bereits gespeicherte Inhalte funktion
 
 Für die laufende Absprunganzeige beim Skispringen ist Android-App 0.35.3 nötig.
 Die App meldet verfügbare native Updates; Android bestätigt deren Installation.
+
+## iPhone
+
+Ab PC 0.35.8 auf dem Verbindungsbildschirm **iPhone / Safari** wählen.
+Den QR-Code mit der iPhone-Kamera öffnen und **Bewegungen erlauben & verbinden** antippen.
+[Partii Controller für Safari](https://total-restart.github.io/partii-downloads/)
+
+PC und iPhone brauchen für diesen Verbindungsweg Internet. Android kann weiterhin lokal
+im selben WLAN steuern. Safari kann die Oberfläche über „Teilen → Zum Home-Bildschirm“
+ablegen; dies ist eine Webversion und keine signierte App-Store-App. Beim erneuten Koppeln
+immer den aktuellen PC-Code verwenden. Echte iPhone-Spieltests und größere gleichzeitige
+Gruppen stehen noch aus. Das Supabase-Free-Kontingent begrenzt die Echtzeitlast.
 
 ## Teststand
 
@@ -58,4 +70,6 @@ Dieses Repository enthält Downloadhinweise und fertige Release-Dateien. Das
 Unity-Projekt und die ursprünglichen Quellcodedateien werden hier nicht veröffentlicht.
 Die automatisch von GitHub eingeblendeten Einträge „Source code (zip/tar.gz)“ enthalten
 hier nur diese README mit Downloadhinweisen, nicht den Spielquellcode.
+Der separate gh-pages-Zweig enthält ausschließlich die notwendige Browser-Laufzeit des
+Safari-Controllers und Schriftlizenzen; JavaScript einer Webseite ist technisch einsehbar.
 Hinweise zu Drittanbieterkomponenten liegen im Spielpaket im Ordner `Licenses`.
