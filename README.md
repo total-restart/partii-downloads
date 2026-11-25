@@ -43,6 +43,12 @@ Partii ist ein Entwicklungsstand. Online-Spiele zwischen PCs brauchen den
 eingerichteten Spielhost und passende Spielversionen. Der Downloadserver ist davon
 unabhängig. Ohne Anmeldung werden Avatare und Spielstände lokal gespeichert.
 
+Ab 0.35.11 liegen gemeinsame Ranglisten und Weltrekorde in Supabase. Sie brauchen
+eine Internetverbindung, aber keinen laufenden PC-Spielhost. Die eigene Platzierung
+bleibt in jeder Disziplin separat sichtbar; weitere Plätze werden beim Scrollen geladen.
+Lokale Ergebnisse werden bei Internetverbindung nachgereicht. Ohne Verbindung bleiben
+persönliche Bestleistungen und bereits geladene öffentliche Listen verfügbar.
+
 ## Partii-Konto
 
 Ab PC/Android 0.35.6 kann auf beiden Geräten dasselbe Partii-Konto verwendet werden.
