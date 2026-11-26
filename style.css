@@ -6,3 +6,6 @@ header{position:relative;justify-content:flex-end}.brand{position:absolute;left:
 @media(orientation:landscape){#a{min-height:140px;font-size:76px;margin-bottom:14px}}
 
 header{position:relative;justify-content:flex-end}.brand{position:absolute;left:50%;transform:translateX(-50%)}
+
+#release,#snowForm{font-size:clamp(27px,7vw,38px);line-height:1.2;min-height:180px;overflow-wrap:anywhere}input[type=range]{width:100%;height:42px;accent-color:#d69c39;touch-action:pan-y}
+@media(orientation:landscape){#release,#snowForm{min-height:112px;font-size:28px}}
